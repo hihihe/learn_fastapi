@@ -1,4 +1,6 @@
 ## FastAPI 框架精讲
+服务器这种后台返回的数据只能是string，json或者是文件类型，对应Html的解析文件类型
+
 > 整体的介绍 FastAPI，快速上手开发，结合 API 交互文档逐个讲解核心模块的使用
 
 ![drf-tutorial](./coronavirus/static/fastapi-tutorial.png)
